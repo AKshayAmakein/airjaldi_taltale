@@ -24,13 +24,13 @@ This project is a starting point for a Flutter application. Which is based on Da
 ## Firebase Blaze plan is used for Sending and Receiving the Push Notification.
 
 ## Screenshots of the application:
-![alt text](airjaldi_telltale\assets\screenshots\login.jpg "login screen")
-![alt text](airjaldi_telltale\assets\screenshots\assignedloading.jpg "loading")
-![alt text](airjaldi_telltale\assets\screenshots\assignedrelay.jpg "loading")
-![alt text](airjaldi_telltale\assets\screenshots\dashboard.jpg "Dashboard")
-![alt text](airjaldi_telltale\assets\screenshots\drawer.jpg "Drawer")
-![alt text](airjaldi_telltale\assets\screenshots\notification.jpg "Notification")
-![alt text](airjaldi_telltale\assets\screenshots\singlerelay.jpg?raw=true "singlerelay")
+![alt text](https://github.com/AKshayAmakein/airjaldi_taltale/blob/master/assets/screenshots/login.jpg "login screen")
+![alt text](https://github.com/AKshayAmakein/airjaldi_taltale/blob/master/assets/screenshots/assignedloading.jpg "loading")
+![alt text](https://github.com/AKshayAmakein/airjaldi_taltale/blob/master/assets/screenshots/assignedrelay.jpg "loading")
+![alt text](https://github.com/AKshayAmakein/airjaldi_taltale/blob/master/assets/screenshots/dashboard.jpg "Dashboard")
+![alt text](https://github.com/AKshayAmakein/airjaldi_taltale/blob/master/assets/screenshots/drawer.jpg "Drawer")
+![alt text](https://github.com/AKshayAmakein/airjaldi_taltale/blob/master/assets/screenshots/notification.jpg "Notification")
+![alt text](https://github.com/AKshayAmakein/airjaldi_taltale/blob/master/assets/screenshots/singlerelay.jpg "singlerelay")
 ![alt text](https://github.com/AKshayAmakein/airjaldi_taltale/blob/master/assets/screenshots/login.jpg "singlerelay")
 
 
