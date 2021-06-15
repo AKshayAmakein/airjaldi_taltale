@@ -31,7 +31,7 @@ This project is a starting point for a Flutter application. Which is based on Da
 ![alt text](airjaldi_telltale\assets\screenshots\drawer.jpg "Drawer")
 ![alt text](airjaldi_telltale\assets\screenshots\notification.jpg "Notification")
 ![alt text](airjaldi_telltale\assets\screenshots\singlerelay.jpg?raw=true "singlerelay")
-![alt text](https://raw.github.com/AKshayAmakein/airjaldi_taltale/master/assets/singlerelay.jpg "singlerelay")
+![alt text](https://github.com/AKshayAmakein/airjaldi_taltale/master/assets/singlerelay.jpg "singlerelay")
 
 
 
