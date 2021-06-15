@@ -24,6 +24,7 @@ class _HomeScreenMainState extends State<HomeScreenMain> {
     username = prefs.getString("name")!;
     avatar = prefs.getString("avatar")!;
     userId = prefs.getString("userId")!;
+    email = prefs.getString("email")!;
   }
 
   @override
@@ -59,9 +60,7 @@ class _HomeScreenMainState extends State<HomeScreenMain> {
           prefs.clear();
           Get.offAll(LoginScreen());
         }),
-        body: MainWidget()
-
-        );
+        body: MainWidget());
   }
 }
 
@@ -95,9 +94,20 @@ class MenuWidget extends StatelessWidget {
                   SizedBox(
                     width: Get.width * 0.02,
                   ),
-                  Text(
-                    username,
-                    style: Theme.of(context).textTheme.headline1,
+                  Column(
+                    children: [
+                      Text(
+                        username,
+                        style: Theme.of(context).textTheme.headline1,
+                      ),
+                      Text(
+                        email,
+                        style: Theme.of(context)
+                            .textTheme
+                            .headline1!
+                            .copyWith(color: Colors.black38),
+                      ),
+                    ],
                   ),
                 ],
               ),

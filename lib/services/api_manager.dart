@@ -25,6 +25,7 @@ class ApiManager extends GetxController {
       prefs.setString("token", jsonResponse['token']);
       prefs.setString("userId", jsonResponse['user_id']);
       prefs.setString("name", jsonResponse['name']);
+      prefs.setString("email", jsonResponse['email']);
       prefs.setString("avatar", jsonResponse['avatar']).then((value) {
         Get.offAll(HomeScreenMain(),
             transition: Transition.rightToLeftWithFade);
